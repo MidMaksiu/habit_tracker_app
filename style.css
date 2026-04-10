@@ -1,0 +1,53 @@
+h5
+{
+    font-family: -apple-system;
+}
+.card-body
+{
+    margin-bottom: 10px;
+}
+#progress
+{
+    font-family: -apple-system;
+    font-size: large;
+}
+
+#titleText
+{
+    font-size: x-large;
+    font-family: -apple-system;
+}
+#current-date
+{
+     border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 2px 12px;
+}
+#add-habit-btn
+{
+    color:darkgreen;
+    background-color:rgb(148, 220, 39)  ;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#del-habit-btn
+{
+    color:rgb(51, 15, 15);
+    background-color:rgb(243, 64, 64) ;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#add-task-btn
+{
+    color:darkgreen;
+    background-color:rgb(148, 220, 39)  ;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#del-task-btn
+{
+    color:rgb(51, 15, 15);
+    background-color:rgb(243, 64, 64) ;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
